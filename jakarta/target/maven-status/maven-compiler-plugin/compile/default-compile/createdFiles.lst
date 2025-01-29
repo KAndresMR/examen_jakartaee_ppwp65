@@ -1,0 +1,6 @@
+ec/edu/ups/jakarta/services/CandidateService.class
+ec/edu/ups/jakarta/App.class
+ec/edu/ups/jakarta/services/PathBase.class
+ec/edu/ups/jakarta/services/CORSFilter.class
+ec/edu/ups/jakarta/dao/CandidateDAO.class
+ec/edu/ups/jakarta/models/Candidate.class
